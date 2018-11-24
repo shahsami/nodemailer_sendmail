@@ -1,3 +1,7 @@
+//first on ur console type "npm init" it will generate the package.json file
+//then "npm install --save nodemailer" and "npm install --save sendmail"
+
+
 var nodemailer = require('nodemailer');
 var sendmail = require('sendmail');
  
